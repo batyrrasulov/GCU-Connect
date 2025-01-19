@@ -1,8 +1,28 @@
-# GCU Connect: Enhancing the GCU Community
+# GCU Connect - Flutter App
 
 GCU Connect is a social media application designed to strengthen communication, collaboration, and engagement within the Grand Canyon University (GCU) community. This platform aims to foster a more connected and informed environment for GCU students, faculty, and staff by integrating academic, social, and extracurricular features.
 
 Built with modern full-stack technologies, GCU Connect is optimized for both iOS and Android devices, ensuring a seamless, cross-platform experience for all users.
+
+## Technology Stack
+
+The development of GCU Connect incorporates a wide range of modern tools and technologies to create a robust, scalable, and secure application:
+
+- **Backend**: Java, Spring Boot, MySQL  
+- **Frontend**: React, Angular, Vue  
+- **Cross-Platform Development**: Flutter (for mobile apps on iOS and Android)  
+- **Languages**: C++, Java, Dart, Swift, HTML, CMake
+
+## Expected Outcomes
+
+- **Increased User Engagement**:  
+  By providing an easy-to-use, informative, and engaging platform, GCU Connect is expected to boost interaction rates and overall community involvement.
+
+- **Enhanced Communication**:  
+  The app will streamline communications between students and faculty, as well as within student groups and organizations, facilitating more effective collaboration.
+
+- **Stronger Sense of Community**:  
+  By connecting users on both academic and social levels, GCU Connect will create a more cohesive and involved campus environment.
 
 ## Features
 
@@ -38,38 +58,14 @@ Built with modern full-stack technologies, GCU Connect is optimized for both iOS
 - **Feedback & Reporting**:  
   Users can provide feedback or report issues to help improve the platform, ensuring a safe and responsive environment.
 
-## Technology Stack
+## ERD
 
-The development of GCU Connect incorporates a wide range of modern tools and technologies to create a robust, scalable, and secure application:
+<img width="1693" alt="Screenshot 2025-01-18 at 17 55 13" src="https://github.com/user-attachments/assets/d04afa15-fe05-4fb3-8bb3-15ebf145dfb1" />
 
-- **Backend**: Java, Spring Boot, MySQL  
-- **Frontend**: React, Angular, Vue  
-- **Cross-Platform Development**: Flutter (for mobile apps on iOS and Android)  
-- **Languages**: C++, Java, Dart, Swift, HTML, CMake
+## Screenshots
+  ### Ran on macOS Darwin
+  <img width="796" alt="Screenshot 2025-01-18 at 17 44 08" src="https://github.com/user-attachments/assets/b583e807-324a-4c41-845d-c074fbebe1c4" />
 
-## Project Goals
-
-The primary goal of **GCU Connect** is to enhance engagement and communication within the GCU community by providing a unified platform for academic, social, and extracurricular activities. The application is expected to:
-
-- Increase user engagement and interaction across all segments of the GCU community.
-- Provide a centralized space for news, events, and social connections.
-- Foster collaboration between students, staff, and faculty, both academically and socially.
-- Improve overall campus experience and build a stronger sense of community.
-
-## Timeline
-
-- **Start Date**: September 2023  
-- **End Date**: April 2024  
-- **Current Status**: In Development (Beta testing phase)
-
-## Expected Outcomes
-
-- **Increased User Engagement**:  
-  By providing an easy-to-use, informative, and engaging platform, GCU Connect is expected to boost interaction rates and overall community involvement.
-
-- **Enhanced Communication**:  
-  The app will streamline communications between students and faculty, as well as within student groups and organizations, facilitating more effective collaboration.
-
-- **Stronger Sense of Community**:  
-  By connecting users on both academic and social levels, GCU Connect will create a more cohesive and involved campus environment.
-
+### Ran on Chrome
+  <img width="986" alt="Screenshot 2025-01-18 at 17 47 00" src="https://github.com/user-attachments/assets/6e7411ec-6a4b-422a-8ad0-6bbf6ee310f7" />
+  
